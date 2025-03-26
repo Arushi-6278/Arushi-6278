@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 (https://holopin.me/arushi6278)](https://holopin.io/@arushi6278)
 -->
-(https://holopin.me/arushi6278)](https://holopin.io/@arushi6278)
+[![An image of @arushi6278's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arushi6278)](https://holopin.io/@arushi6278)
